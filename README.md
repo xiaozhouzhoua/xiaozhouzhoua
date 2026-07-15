@@ -12,12 +12,12 @@ Java backend, AI experiments, and practical tools for macOS and the web\.
 
 | Repository | Role | Purpose |
 | --- | --- | --- |
-| [`spring-ai-simple`](https://github.com/xiaozhouzhoua/spring-ai-simple) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/spring--ai--simple?style=flat-square&label=%E2%98%85) | ASSIST | Multi-turn chat, persistent history, and structured output with Spring AI and Claude\. |
+| [`spring-ai-simple`](https://github.com/xiaozhouzhoua/spring-ai-simple) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/spring-ai-simple?style=flat-square&label=%E2%98%85) | ASSIST | Multi-turn chat, persistent history, and structured output with Spring AI and Claude\. |
 | [`WeatherCN`](https://github.com/xiaozhouzhoua/WeatherCN) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/WeatherCN?style=flat-square&label=%E2%98%85) | CREATE | A native SwiftUI weather app for Chinese cities with search and favorites\. |
 | [`LinuxCommandKit`](https://github.com/xiaozhouzhoua/LinuxCommandKit) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/LinuxCommandKit?style=flat-square&label=%E2%98%85) | EXPLAIN | A native macOS explorer for Linux commands, parameters, and practical examples\. |
-| [`win12-desktop`](https://github.com/xiaozhouzhoua/win12-desktop) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/win12--desktop?style=flat-square&label=%E2%98%85) | SIMULATE | A draggable Windows-style web desktop with terminal and file explorer experiences\. |
-| [`My-Weekly`](https://github.com/xiaozhouzhoua/My-Weekly) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My--Weekly?style=flat-square&label=%E2%98%85) | DOCUMENT | A Chinese technical knowledge base for development practice and troubleshooting\. |
-| [`My-Stars`](https://github.com/xiaozhouzhoua/My-Stars) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My--Stars?style=flat-square&label=%E2%98%85) | CURATE | A categorized, automatically refreshed catalog of starred open-source projects\. |
+| [`win12-desktop`](https://github.com/xiaozhouzhoua/win12-desktop) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/win12-desktop?style=flat-square&label=%E2%98%85) | SIMULATE | A draggable Windows-style web desktop with terminal and file explorer experiences\. |
+| [`My-Weekly`](https://github.com/xiaozhouzhoua/My-Weekly) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My-Weekly?style=flat-square&label=%E2%98%85) | DOCUMENT | A Chinese technical knowledge base for development practice and troubleshooting\. |
+| [`My-Stars`](https://github.com/xiaozhouzhoua/My-Stars) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My-Stars?style=flat-square&label=%E2%98%85) | CURATE | A categorized, automatically refreshed catalog of starred open-source projects\. |
 
 ## Closed-loop architecture
 
