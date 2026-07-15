@@ -1,9 +1,80 @@
-- 👋 介绍：我是小周
-- 👀 爱好： 发现新事物
-- 🌱 技能：Java、Shell、Web、DB、DevOps
-- 📫 座右铭：好记性不如烂笔头
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="小周 profile control plane" src="assets/hero-light.svg" width="100%">
+</picture>
 
-<!---
-xiaozhouzhoua/xiaozhouzhoua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![profile](https://img.shields.io/badge/profile-xiaozhouzhoua-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-8-E84A8A?style=flat-square&labelColor=102934)
+
+Java backend, AI experiments, and practical tools for macOS and the web\.
+
+## Flagship systems
+
+| Repository | Role | Purpose |
+| --- | --- | --- |
+| [`spring-ai-simple`](https://github.com/xiaozhouzhoua/spring-ai-simple) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/spring--ai--simple?style=flat-square&label=%E2%98%85) | ASSIST | Multi-turn chat, persistent history, and structured output with Spring AI and Claude\. |
+| [`WeatherCN`](https://github.com/xiaozhouzhoua/WeatherCN) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/WeatherCN?style=flat-square&label=%E2%98%85) | CREATE | A native SwiftUI weather app for Chinese cities with search and favorites\. |
+| [`LinuxCommandKit`](https://github.com/xiaozhouzhoua/LinuxCommandKit) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/LinuxCommandKit?style=flat-square&label=%E2%98%85) | EXPLAIN | A native macOS explorer for Linux commands, parameters, and practical examples\. |
+| [`win12-desktop`](https://github.com/xiaozhouzhoua/win12-desktop) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/win12--desktop?style=flat-square&label=%E2%98%85) | SIMULATE | A draggable Windows-style web desktop with terminal and file explorer experiences\. |
+| [`My-Weekly`](https://github.com/xiaozhouzhoua/My-Weekly) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My--Weekly?style=flat-square&label=%E2%98%85) | DOCUMENT | A Chinese technical knowledge base for development practice and troubleshooting\. |
+| [`My-Stars`](https://github.com/xiaozhouzhoua/My-Stars) ![stars](https://img.shields.io/github/stars/xiaozhouzhoua/My--Stars?style=flat-square&label=%E2%98%85) | CURATE | A categorized, automatically refreshed catalog of starred open-source projects\. |
+
+## Closed-loop architecture
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="小周 architecture map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
+
+## Module registry
+
+<details>
+<summary><strong>Java &amp; AI</strong> · 4 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`spring-ai-simple`](https://github.com/xiaozhouzhoua/spring-ai-simple) | Spring AI chat application with persistent conversations\. |
+| [`spring-ai-demo`](https://github.com/xiaozhouzhoua/spring-ai-demo) | Spring AI experiments and interface prototypes\. |
+| [`HutoolAiDemo`](https://github.com/xiaozhouzhoua/HutoolAiDemo) | Java AI integration experiments\. |
+| [`springboot3`](https://github.com/xiaozhouzhoua/springboot3) | Spring Boot 3 practice and backend experiments\. |
+
+</details>
+
+<details>
+<summary><strong>Native macOS</strong> · 2 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`WeatherCN`](https://github.com/xiaozhouzhoua/WeatherCN) | SwiftUI weather app for Chinese cities\. |
+| [`LinuxCommandKit`](https://github.com/xiaozhouzhoua/LinuxCommandKit) | SwiftUI explorer for Linux commands\. |
+
+</details>
+
+<details>
+<summary><strong>Web experiments</strong> · 4 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`win12-desktop`](https://github.com/xiaozhouzhoua/win12-desktop) | Interactive desktop interface built for the web\. |
+| [`history-lens`](https://github.com/xiaozhouzhoua/history-lens) | AI Studio application experiment\. |
+| [`opentui-demo`](https://github.com/xiaozhouzhoua/opentui-demo) | TypeScript terminal UI experiment\. |
+| [`xiaozhouzhoua.github.io`](https://github.com/xiaozhouzhoua/xiaozhouzhoua.github.io) | Personal homepage and web showcase\. |
+
+</details>
+
+<details>
+<summary><strong>Knowledge &amp; automation</strong> · 4 modules</summary>
+
+| Module | Purpose |
+| --- | --- |
+| [`My-Weekly`](https://github.com/xiaozhouzhoua/My-Weekly) | Chinese technical knowledge base\. |
+| [`My-Stars`](https://github.com/xiaozhouzhoua/My-Stars) | Automatically refreshed starred-project catalog\. |
+| [`ShellScript`](https://github.com/xiaozhouzhoua/ShellScript) | Shell scripts and automation experiments\. |
+| [`dotfiles`](https://github.com/xiaozhouzhoua/dotfiles) | Personal development environment configuration\. |
+
+</details>
+
+<p align="center"><a href="https://github.com/xiaozhouzhoua">GitHub</a> · <a href="https://xiaozhouzhoua.github.io/">Homepage</a> · <a href="https://tinymind.me/xiaozhouzhoua">Notes</a></p>
+
+<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
